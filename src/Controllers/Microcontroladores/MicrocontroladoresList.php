@@ -1,12 +1,12 @@
 <?php
 
-namespace Controllers\TallerMicrocontroladores;
+namespace Controllers\Microcontroladores;
 
 use Controllers\PublicController;
 use Dao\TallerMicrocontroladores\TallerMicrocontroladores;
 use Views\Renderer;
 
-class LibrosList extends PublicController
+class MicrocontroladoresList extends PublicController
 {
     public function run(): void
     {
