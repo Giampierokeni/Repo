@@ -1,0 +1,17 @@
+{
+    "name": "uch/hotel",
+    "description": "Reservacion de habitacion",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uch\\Hotel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Keni Giampiero bobadilla"
+        }
+    ],
+    "require": {}
+}
