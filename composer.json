@@ -13,5 +13,10 @@
             "name": "Keni Giampiero bobadilla"
         }
     ],
-    "require": {}
+    "require": {},
+    "config": {
+        "allow-plugins": {
+            "symfony/flex": true
+        }
+    }
 }
